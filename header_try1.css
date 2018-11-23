@@ -1,0 +1,93 @@
+body
+{
+    overflow: auto;
+    padding: 0px;
+    margin:0px;
+    font-family: cursive;
+}
+
+.i
+{
+    display: inline;
+}
+
+a
+{
+    padding: 0px;
+    margin:0px;
+
+}
+
+
+
+#l
+{
+    position:sticky;
+    margin-top:0px;
+    padding-top: 0px;
+    float: left;
+    height: 100px;
+    width: 100px;
+
+    /*margin-right: 575px;
+    margin-left: 25px;*/
+
+}
+
+#bookar
+{
+    padding-top: 0px;
+    margin-top: 0px;
+    padding-top:0px;
+    float: left;
+    height:75px;
+    width:200px;
+    padding-top: 30px;
+    margin-right: 575px;
+}
+
+div.header
+{   position: sticky; 
+    margin:0px;
+    padding: 0px;
+    width: max-content;
+    height: 100px;
+    background-color: black;
+    margin-bottom: 100px; 
+}
+
+.ele
+{
+    padding: 0px;
+    margin: 0px;
+}
+
+ul
+{
+    margin:0px;
+    padding-top: 35px;
+}
+
+.ele li
+{
+
+    display: inline;
+    padding: 5px;
+    
+}
+
+.ele li a
+{
+    color: antiquewhite;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 5px 0px;
+    margin: 5px 0px;
+
+
+}
+
+.ele li a:hover
+{
+    text-decoration: underline;
+}
